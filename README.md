@@ -1,2 +1,2 @@
 # ML_Homework
-Homework from the ML Applied classs at UCR 
+Homework from Machine Learning Applied class at University of California Riverside 
