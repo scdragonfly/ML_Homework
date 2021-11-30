@@ -9,7 +9,7 @@ Week 2
 
 
 
-Week 3 
+Week 3 - Buffon Needle Problem. Run Montecarlo simulations to estimate pi based on the number of needles in each run 
 
 
 Week 4 
