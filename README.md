@@ -16,10 +16,11 @@ Week 5 - Find the income using Support Vector Machines - First - run a random fo
 Mid Term - Wine quality problem . Understanding and explaining the data set.
         2. Processing data, cleaning up.
         3. Dividing your data into a training and test set.
-        4. Choosing the relevant algorithm.
-        5. Writing a python code to perform learning. (reuse every code from the lectures)
-        6. Evaluating your learning performance.
-        7. Making sure your results does not depend on your choosing parameters.
+        4. Choosing the relevant algorithm /Writing a python code to perform learning. (reuse every code from the lectures)
+        6. Evaluating your learning performance / Making sure your results does not depend on your choosing parameters.
+        
+Final Project - Neural Networks 
+Use diﬀerent activations, number of layers, number of neurons at each layer, compare their performance and ﬁnd the simplest neural net. There could be couple of networks that are fairly close in terms of the performance choose anyone you think has the least complexity and explain your reasoning.
         
         
         
